@@ -1,2 +1,2 @@
 # Telcolearn
-THis file is for what i have do daily
+THis file is for what i have do daily in the training
